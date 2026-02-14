@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "927656491577",
+    "project_id": "simple-app-5d1a9",
+    "storage_bucket": "simple-app-5d1a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927656491577:android:6804086ed4054468442be8",
+        "android_client_info": {
+          "package_name": "com.goraya.khata_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927656491577-9b6kdbqbvoqbt4fkpbrjjr70hrjah1tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAIZFz4ZwVcW2b4Sgi5Rn68cGJz7ZZpVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927656491577-9b6kdbqbvoqbt4fkpbrjjr70hrjah1tu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "927656491577-7g4a57mikvn07a7brpbuos2evdhsh7b9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.simpleapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
