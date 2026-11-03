@@ -24,7 +24,7 @@ class AuthController extends GetxController {
             .doc(userCredential.user!.uid)
             .set({
           'email': userCredential.user!.email,
-          'isAdmin': userCredential.user!.email == 'a.wassay@3rdeyesoft.com',
+          'isAdmin': userCredential.user!.email == 'admin.wassay@3.com',
           'lastSignIn': FieldValue.serverTimestamp(),
         }, SetOptions(merge: true));
 
